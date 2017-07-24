@@ -77,7 +77,7 @@ public class PagerActivity extends Activity implements AdapterView.OnItemSelecte
                 setTitle("Horizontal红红火火 Demo");
                 break;
             case 2:
-                setTitle("Vertical Demo");
+                setTitle("Vertical恍恍惚惚 Demo");
                 break;
             case 3:
                 setTitle("MultiScreen_H Demo");
