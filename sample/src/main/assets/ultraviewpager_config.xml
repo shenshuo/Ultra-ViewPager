@@ -31,7 +31,7 @@
         <id>com.tmall.ultraviewpager</id>
         <name>UltraViewPager</name>
         <describe>简单高效的 ViewPager!</describe>
-        <author>智闲</author>
+        <author>沈少</author>
         <date>2015-12-04</date>
         <subtype>Views</subtype>
     </module>

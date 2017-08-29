@@ -75,7 +75,11 @@ public class PagerActivity extends Activity implements AdapterView.OnItemSelecte
         switch (style){
             case 1:
 
+
                 setTitle("ssssssssHorizontal Demo");
+
+
+
 
 
 
